@@ -370,7 +370,7 @@ section.service h5{
 
 section.contact {
   background-color: #E82B39;
-  height: 700px;
+  height: 800px;
 }
 
 section.contact h2 {
@@ -502,7 +502,6 @@ section.contact i {
 
   .form-btn{
     width:300px;
-    display: block;
     height: auto;
     padding:15px;
     color:#fff;
